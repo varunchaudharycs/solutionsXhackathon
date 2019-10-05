@@ -34,6 +34,17 @@ Eve uses certain tools for implementation:
 - If transaction is fraudulent, asks the user for last 4 digits of bank account
 - Incorrect user input blocks the account with a service message to visit the nearest branch
 
+!.[Eve's About Us for Bank of West](https://imgur.com/8VZoLuF)
+
+!.[Anamoly Fail](https://imgur.com/cX1cuKi)
+
+!.[Anamoly Success](https://imgur.com/eavNVwO)
+
+!.[Eve's Greeting](https://imgur.com/qPmiG9w)
+
+!.[Handling missing data](https://imgur.com/SC0cxkv)
+
+!.[SEND transaction](https://imgur.com/XX1kcEr)
 
 #### TODO
 1. Face authentication for on-the-fly transactions
