@@ -35,7 +35,7 @@ def home():
               elif info['firstName'] == 'self':
                   info["balanceAvailable"] = info["balanceAvailable"] - amount
                   if amount > info["maxtransferred"] + 200:
-                      message = "This is embarassing but an Anomaly is Detected in your account"
+                      message = "This is embarrassing but an Anomaly is Detected in your account"
                       message2 = "Please enter the last 4 digit of your account number"
                       break
           elif action.lower() == "request" :
